@@ -16,7 +16,29 @@ This repository captures the full suite of classical ML — including regression
 - Spline Regression
 
 📌 **Projects:**
-- House Price Prediction (Kaggle)
+---
+### 🔗 Featured Full-Stack Project
+
+#### 🏠 [House Price Prediction (Full Stack)](https://github.com/Tamaghnatech/HousePricePrediction)
+
+A **production-grade, end-to-end regression pipeline** implementing:
+
+* **Linear Regression (OLS)**
+* **Ridge Regression**
+* **Lasso Regression**
+* **ElasticNet Regression**
+
+🚀 Features:
+
+* 📊 Cross-validated model comparisons
+* 🪄 Auto-logging with **Weights & Biases (wandb)**
+* 💾 Model saving and artifact tracking
+* 🌐 **Interactive Streamlit dashboard** with real-time metrics
+* 📁 Clean repo structure, 📉 Matplotlib plots, and 📄 Beautiful README
+
+> *This repo serves as a showcase of how classical linear models can be taken all the way to production-like deployment using modern tools.*
+
+---
 - CO2 Emissions vs Engine Size (Polynomial Fit)
 - French Motor Insurance Claims (Poisson/Gamma GLM)
 
